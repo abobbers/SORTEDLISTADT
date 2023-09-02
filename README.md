@@ -15,3 +15,5 @@ They are:
   
 You must also implement an Iterator inner class for the
 SortedList class.
+
+CREDITS: Johnathan Kapleau
