@@ -1,16 +1,15 @@
 import java.util.Iterator;
 
 
-
 // Create the class.
 
-public class DriverCLass
+public class DriverClass
 
 {
 
 // Method to display the values of the list.
 
-    public static void DispalyList(SortedList<Integer> list)
+    public static void DisplayList(SortedList<Integer> list)
 
     {
 
@@ -66,7 +65,7 @@ public class DriverCLass
 
 // Display the list.
 
-        DispalyList(values);
+        DislayList(values);
 
 
 
