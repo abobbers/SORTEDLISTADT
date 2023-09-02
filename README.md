@@ -1,5 +1,6 @@
 # SORTEDLISTADT
 Implement the SortedList class.
+
 The SortedList class extends
 the List class. Your assignment is to
 implement (recursively) all of the 
